@@ -1,0 +1,149 @@
+#bdy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgb(5, 1, 61);
+  background: radial-gradient(
+    circle,
+    rgba(5, 1, 61, 1) 0%,
+    rgba(9, 9, 121, 1) 30%,
+    rgba(0, 211, 255, 1) 100%
+  );
+  color: #fff;
+}
+#cabeza {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#contenedor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1a5e7b57;
+  width: 550px;
+  height: 350px;
+  border-radius: 16px;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#inicial {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#formulario {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+#main {
+  display: flex;
+  font-size: 25px;
+  justify-content: center;
+  padding-bottom: 15px;
+  width: 550px;
+  padding-top: 15px;
+  font-family: "Archivo Black", sans-serif;
+}
+
+#tp {
+  padding: 2px;
+  margin: 3px;
+  font-size: 20px;
+}
+#num {
+  display: flex;
+  padding: 2px;
+  margin-top: 15px;
+  font-size: 20px;
+  margin-bottom: 3px;
+}
+#barra {
+  display: flex;
+  padding: 6px;
+  margin: 3px;
+  width: 270px;
+  border-radius: 4px;
+  background: transparent;
+  border: #dde6ed solid 1px;
+  color:white;
+  background: #00000081;
+}
+#id_Doc {
+  display: flex;
+  padding: 6px;
+  margin: 3px;
+  width: 257px;
+  border-radius: 4px;
+  background: transparent;
+  border: #dde6ed solid 1px;
+  color:white;
+  background: #00000081;
+}
+#btn {
+  display: flex;
+  align-content: center;
+  padding-top: 4px;
+  margin: 6px;
+  text-align: center;
+  width: min-content;
+  border-radius: 4px;
+  background: transparent;
+  border: #dde6ed solid 1px;
+  font-size: 16px;
+  color:white;
+  background: #00000081;
+}
+#btn1 {
+  display: block;
+  padding-top: 4px;
+  margin: 22px;
+}
+
+#cuerpo {
+  display: flex;
+  padding-top: 4px;
+  margin: 6px;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  height: 200px;
+}
+#yax {
+  display: flex;
+  text-align: center;
+  font-size: 20px;
+  margin-left: auto;
+  font-family: "Kanit", sans-serif;
+}
+
+#nom {
+  display: flex;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Kanit", sans-serif;
+  margin-bottom: 200px;
+}
+#nom2 {
+  display: flex;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Kanit", sans-serif;
+}
+
+#infor {
+  display: flex;
+  align-items: center;
+}
+#inf {
+  margin-left: 6px;
+  color: #2f0049;
+}
