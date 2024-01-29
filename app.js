@@ -30,23 +30,23 @@ function init() {
 
 const list = [
   {
-    nameID: "REINEIRO",
-    lastName: "MONTERROSA",
-    id: "1140891025",
-  },
-  {
-    nameID: "SNEIDER",
-    lastName: "MONTERROSA",
+    nameID: "ROGER",
+    lastName: "MENDEZ",
     id: "1140891026",
   },
   {
-    nameID: "ANGELA",
-    lastName: "MONTERROSA",
+    nameID: "SNEIDER",
+    lastName: "MOLANO",
     id: "1140891027",
   },
   {
-    nameID: "NEYFER",
-    lastName: "MONTERROSA",
+    nameID: "ANGELA",
+    lastName: "MONTES",
+    id: "1140891028",
+  },
+  {
+    nameID: "NEFERIT",
+    lastName: "DAES",
     id: "1140891028",
   },
 ];
