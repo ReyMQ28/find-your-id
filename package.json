@@ -1,11 +1,11 @@
 {
   "name": "find_your_id",
   "private": true,
-  "homepage":"https://reymq28.github.io/find-your-id",
+  "homepage":"http://ReyMQ28.github.io/find-your-id",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeply":"npm run build",
+    "predeploy":"npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
